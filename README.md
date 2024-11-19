@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++.
 - 😄 Pronouns: she / her
 -->
+- 🔭 I’m currently working on projects in C, Java and Python.
+- 🌱 I’m currently learning C++.
+- 😄 Pronouns: she / her
